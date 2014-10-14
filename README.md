@@ -1,3 +1,7 @@
+# ExDoc Localization Template for zh-CN
+
+![ExDoc Localization Template for zh-CN][1]
+
 # ExDoc
 
 ExDoc is a tool to generate documentation for your Elixir projects. In case you are looking for documentation for Elixir itself, [check out Elixir's website](http://elixir-lang.org/).
@@ -80,3 +84,5 @@ To see all options available when generating docs, just run `mix help docs`.
 ExDoc source code is released under Apache 2 License with snippets under MIT-LICENSE.
 
 Check LICENSE file for more information.
+
+  [1]: http://developerworks.github.io/assets/images/61802553-AA1E-430F-9BED-2B25BC2BAF58.png
