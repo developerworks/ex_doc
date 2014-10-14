@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title><%= config.project %> v<%= config.version %> 文档</title>
+</head>
+<frameset cols="20%,*">
+  <frame name="list" src="modules_list.html" />
+  <frame name="main" src="<%= config.main %>.html" />
+</frameset>
+</html>
